@@ -4,20 +4,26 @@
 
 **Report:** https://drive.google.com/file/d/121JOxjIou7zbVBm8aStmlirOFvo_WR-H/view?usp=sharing
 
-**Role:** Team Leader
+**Role:** **Team Leader**
 
 **Award:** **Champion of the League (1st Prize) - MindX Technology School**
 
-**Tasks:**
+**Description:**
 
-•	Led a 3-member team, coordinated workflow, and ensured on-time delivery under tight demo deadlines.
+Directed a 3-member team in a full-cycle, build-from-scratch analytics project; managed task allocation, progress tracking, and timely delivery for final demo.
 
-•	Built interactive Power BI dashboards to visualize key metrics and optimize sales strategy.
+**Duties:**
 
-•	Analyzed driver and partner performance to refine incentive programs and operational plans.
+•	Built interactive dashboards to support data-driven sales and operational decisions.
 
-•	Conducted deep-dive analysis into customer behavior and sales trends to support staffing and service planning.
+•	Analyzed sales and delivery data to identify key performance drivers and product insights.
 
-•	Presented data-driven recommendations to stakeholders, grounded in performance insights.
+•	Applied RFM analysis and sentiment categorization to detect churn risks and improve customer satisfaction.
 
-**Tools:** Python, Power BI
+•	Evaluated marketing effectiveness and customer growth to guide budget planning and retention strategies.
+
+**Technologies:**
+
+Programming Languages: Python, DAX
+
+Data Visualization: Power BI
